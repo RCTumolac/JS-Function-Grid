@@ -2,7 +2,7 @@
   border-collapse: collapse;
 }
 #t td {
-  border: 1px solid blue;
+  border: 1px solid black;
   width: 2em;
   height: 2em;
 }
